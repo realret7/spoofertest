@@ -140,11 +140,11 @@ echo.                                                      %g%╚═╝  ╚═�
 echo.
 echo.                                                                                                 %w%Made by ret4ke
 echo.
-echo.                                                                                       %g%[1]%g% %w%Spoof HWID%w%
+echo.                                                                                               %g%[1]%g% %w%Spoof HWID%w%
 echo.
 echo.
 echo.
-echo.                                                                                               [X] %r%Exit%r%
+echo.                                                                                                  [X] %r%Exit%r%
 echo.
 echo.
 echo.
